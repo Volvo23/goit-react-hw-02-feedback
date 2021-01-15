@@ -1,0 +1,45 @@
+.good {
+  padding: 5px 10px;
+  font-size: 16px;
+  border-color: transparent;
+  outline: none;
+  border-radius: 10px;
+  margin-right: 10px;
+  box-shadow: 0px 0px 7px -1px rgba(0, 0, 0, 0.91);
+  background-color: green;
+  margin-bottom: 20px;
+}
+.good:hover {
+  background-color: royalblue;
+  cursor: pointer;
+}
+.bad {
+  padding: 5px 10px;
+  font-size: 16px;
+  border-color: transparent;
+  outline: none;
+  border-radius: 10px;
+  margin-right: 10px;
+  box-shadow: 0px 0px 7px -1px rgba(0, 0, 0, 0.91);
+  background-color: red;
+  margin-bottom: 20px;
+}
+.bad:hover {
+  background-color: royalblue;
+  cursor: pointer;
+}
+.neutral {
+  padding: 5px 10px;
+  font-size: 16px;
+  border-color: transparent;
+  outline: none;
+  border-radius: 10px;
+  margin-right: 10px;
+  box-shadow: 0px 0px 7px -1px rgba(0, 0, 0, 0.91);
+  background-color: orange;
+  margin-bottom: 20px;
+}
+.neutral:hover {
+  background-color: royalblue;
+  cursor: pointer;
+}
